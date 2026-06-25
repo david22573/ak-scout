@@ -1,0 +1,2 @@
+timestamp,symbol,price,recommendation,long_conf,short_conf,wait_conf,entry,stop,tp1,tp2,reason,snapshot_file,after_30m,after_1h,after_4h,max_favorable,max_adverse,outcome_status
+2026-06-25T00:39:01Z,BNBUSD_PERP,569.4100,WAIT,2.0,1.0,8.0,0.0000,0.0000,0.0000,0.0000,BTC is slightly bullish but BNB is overextended on shorter timeframes,runs/scout/snapshots/snapshot_20260625_053901_BNBUSD_PERP.json,565.8100,565.8300,569.0500,1.04%,0.15%,CORRECT_WAIT

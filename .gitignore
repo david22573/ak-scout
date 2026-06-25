@@ -1,0 +1,22 @@
+# Binaries
+/ak-scout
+/bin/
+*.exe
+*.test
+*.out
+
+# Go cache & workspace
+/.cache/
+/go.work
+/go.work.sum
+
+# Environments & configs
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# Planning
+.planning/
